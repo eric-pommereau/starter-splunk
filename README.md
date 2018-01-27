@@ -18,6 +18,6 @@ cd starter-splunk
 vagrant up
 ```
 ## Tests
-Dans le navigateur : http://localhost:8000 et hop : 
+Dans le navigateur : http://localhost:8000 et hop, à toi de jouer : 
 
-<img src="/ims/splunk-login-page.png" width="700">
+<img src="/img/splunk-login-page.png" width="700">
