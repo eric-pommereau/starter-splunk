@@ -8,6 +8,8 @@
 Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu/trusty64"                                                 
 
+  # config.vm.box = "generic/debian9"                                                 
+
   # ports pour splunk
   config.vm.network "forwarded_port", guest: 8000, host: 8000                       
   config.vm.network "forwarded_port", guest: 8089, host: 8089                       
