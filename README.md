@@ -1,2 +1,2 @@
-# starter-splunk
-installation splunk sous DEBIAN clé en main
+# Starter-splunk
+Installation splunk sous DEBIAN clé en main (vagrant).
